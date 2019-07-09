@@ -1,15 +1,15 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "How AI is going to disrupt Agriculture?"
+date: "2019-06-05 02:08:29"
 template: "post"
 draft: false
-slug: "/posts/a-brief-history-of-typography/"
-category: "Design Inspiration"
+slug: "/posts/how-ai-will-disrupt-agriculture/"
+category: "AI Awareness"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
+  - "Industry"
+  - "Agritech"
+  - "Beginner"
+  - "Storytelling"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
 ---
 

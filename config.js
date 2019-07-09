@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://vipulpandey.netlify.com/',
+  title: 'Blog by Vipul Pandey',
+  subtitle: 'Artificial Intelligence Awareness in India.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,11 +23,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Vipul Pandey',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'AI & Deep Learning Ethusiast.',
     contacts: {
-      email: '#',
+      email: 'statsmatterin@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
